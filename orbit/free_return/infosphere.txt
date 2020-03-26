@@ -1,0 +1,2 @@
+time salloc -n 72 mpiexec a.out
+module load mpi
