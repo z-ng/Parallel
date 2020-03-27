@@ -19,9 +19,8 @@ This program generates a series of images that simulates a movie.
   This should generate a series of images.  Simply copy these images into a gif maker online to create your movie!
   
   This should produce a gif like the one below.
-  
-  ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/ray_tracing/checkerboard/image.jpg)
-
+ 
+![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/ray_tracing/movie/movie.gif)
 
 ## Checkerboard
  
@@ -33,6 +32,7 @@ This program generates a ray traced still of three balls.
     ./a.out
     display image.ppm
     
-  This should produce a gif like the one below.
+  This should produce an image like the one below.
+  
+![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/ray_tracing/checkerboard/image.png)
 
-  ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/ray_tracing/movie/movie.gif)
