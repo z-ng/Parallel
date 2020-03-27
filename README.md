@@ -6,7 +6,7 @@ This repo contains the labs and projects associated with Parallel Computing 1 & 
 
 While not all labs and projects from this class will be available, the following will be available for viewing:
 
-Ray Tracing
-Prefix sums
-Forest Fire
-Orbit Simulation
+Ray Tracing <br/>
+Prefix sums <br/>
+Forest Fire <br/>
+Orbit Simulation <br/>
