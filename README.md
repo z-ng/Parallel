@@ -1,8 +1,8 @@
-#Parallel Computing
+# Parallel Computing
 
 This repo contains the labs and projects associated with Parallel Computing 1 & 2.  Please note that this does not contain all files and programs created during this time period.  Other projects completed can be viewed within the syllabus.  All projects completed in this class were built in C++.  A sample syllabus can be viewed within this repository.
 
-#Labs/Projects
+## Labs/Projects
 
 While not all labs and projects from this class will be available, the following will be available for viewing:
 
@@ -11,7 +11,7 @@ While not all labs and projects from this class will be available, the following
   Forest Fire
   Orbit Simulation
   
-#Ray Tracing
+## Ray Tracing
 
 Ray tracing is a ray tracing simulation that uses openMPI for optimization.  It implements Lamberts Law to determine the light intensity level to generate realistic shadows.
 
@@ -20,7 +20,7 @@ There are two versions of this program:
     checkerboard generates a still of a ray traced image
     movie generates a series of images that can be combined into a gif to form a movie
 
-#Movie Program
+## Movie Program
 
 This program generates a series of images that simulates a movie.
 
@@ -36,7 +36,7 @@ This program generates a series of images that simulates a movie.
   ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/ray_tracing/checkerboard/image.ppm)
 
 
- #Checkerboard
+## Checkerboard
  
 This program generates a ray traced still of three balls.
 
