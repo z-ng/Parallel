@@ -15,14 +15,14 @@ This should generate a text file that is the numerical representation of the orb
   
   This should produce a series of images similiar to the one below:
 
-######Orbit Graph
+###### Orbit Graph
 
 ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/orbit/orbit_sim/orbit.png)
 
-######Distance Graph
+###### Distance Graph
 
 ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/orbit/orbit_sim/distance.png)
 
-######Speed Graph
+###### Speed Graph
 
 ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/orbit/orbit_sim/speed.png)
