@@ -10,3 +10,4 @@ Ray Tracing <br/>
 Prefix sums <br/>
 Forest Fire <br/>
 Orbit Simulation <br/>
+Huffman <br/>
