@@ -1,6 +1,3 @@
-//
-// Torbert, 8 November 2018
-//
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
