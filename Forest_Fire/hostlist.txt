@@ -1,0 +1,4 @@
+localhost slots = 4
+metaknight slots = 4 
+peach slots = 4
+mario slots = 4 
