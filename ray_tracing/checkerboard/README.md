@@ -10,4 +10,4 @@ This program generates a ray traced still of three balls.
     
   This should produce an image like the one below.
 
-  ![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/ray_tracing/checkerboard/image.png)
+  ![Ray tracing image](https://raw.githubusercontent.com/zac-ng/Parallel_Computing/main/ray_tracing/checkerboard/image.png)

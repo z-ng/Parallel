@@ -17,13 +17,13 @@ This should generate a text file that is the numerical representation of the orb
 
 ###### Orbit Graph
 
-![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/orbit/free_return/orbit.png)
+![Ray tracing image](https://raw.githubusercontent.com/zac-ng/Parallel_Computing/main/orbit/free_return/orbit.png)
 
 ###### Distance Graph
 
-![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/orbit/free_return/distance.png)
+![Ray tracing image](https://raw.githubusercontent.com/zac-ng/Parallel_Computing/main/orbit/free_return/distance.png)
 
 ###### Speed Graph
 
-![Ray tracing image](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/orbit/free_return/speed.png)
+![Ray tracing image](https://raw.githubusercontent.com/zac-ng/Parallel_Computing/main/orbit/free_return/speed.png)
 

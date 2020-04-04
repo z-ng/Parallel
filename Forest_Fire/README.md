@@ -23,7 +23,7 @@ This should generate a simulation of a textbased forest fire.
   
 This should produce a series of an output similiar to the one below.
 
-![Forest Fire](https://raw.githubusercontent.com/z-ng/Parallel_Computing/main/Forest_Fire/forestFire.gif)
+![Forest Fire](https://raw.githubusercontent.com/zac-ng/Parallel_Computing/main/Forest_Fire/forestFire.gif)
 
 ## forestFirePlot
 
